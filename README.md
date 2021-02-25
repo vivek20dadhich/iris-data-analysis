@@ -5,4 +5,4 @@ This repository contains a script code which classifies the famous Iris Dataset.
 Python 2.7.17
 Required libraries : sklearn, pandas, matplotlib, seaborn
 
-Accuarcy - 
+Test Accuarcy - 0.933 
